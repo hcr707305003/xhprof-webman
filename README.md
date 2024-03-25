@@ -28,7 +28,7 @@ composer require shiroi/xhprof-webman
 
 ```
     '' => [
-        Aaron\Xhprof\Webman\XhprofMiddleware::class,
+        Shiroi\Xhprof\Webman\XhprofMiddleware::class,
     ]
 ```
 
@@ -40,7 +40,7 @@ composer require shiroi/xhprof-webman
 namespace app\controller;
 
 use support\Request;
-use Aaron\Xhprof\Webman\Xhprof;
+use Shiroi\Xhprof\Webman\Xhprof;
 
 class TestController
 {

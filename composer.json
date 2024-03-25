@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Aaron\\Xhprof\\Webman\\": "src/Webman"
+            "Shiroi\\Xhprof\\Webman\\": "src/Webman"
         }
     },
     "authors": [

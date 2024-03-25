@@ -3356,7 +3356,7 @@ jQuery.extend( jQuery.fx, {
 	}
 });
 // The Offset Method
-// Originally By Brandon Aaron, part of the Dimension Plugin
+// Originally By Brandon Shiroi, part of the Dimension Plugin
 // http://jquery.com/plugins/project/dimensions
 jQuery.fn.offset = function() {
 	var left = 0, top = 0, elem = this[0], results;

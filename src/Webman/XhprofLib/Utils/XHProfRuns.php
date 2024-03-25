@@ -1,6 +1,6 @@
 <?php
 declare(strict_types=1);
-namespace Aaron\Xhprof\Webman\XhprofLib\Utils;
+namespace Shiroi\Xhprof\Webman\XhprofLib\Utils;
 
 interface XHProfRuns
 {

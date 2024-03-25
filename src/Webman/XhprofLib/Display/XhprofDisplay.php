@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Aaron\Xhprof\Webman\XhprofLib\Display;
+namespace Shiroi\Xhprof\Webman\XhprofLib\Display;
 
-use Aaron\Xhprof\Webman\XhprofLib\Utils\XhprofLib;
-use Aaron\Xhprof\Webman\XhprofLib\Utils\XHProfRunsDefault;
-use Aaron\Xhprof\Webman\Xhprof;
+use Shiroi\Xhprof\Webman\XhprofLib\Utils\XhprofLib;
+use Shiroi\Xhprof\Webman\XhprofLib\Utils\XHProfRunsDefault;
+use Shiroi\Xhprof\Webman\Xhprof;
 
 class XhprofDisplay
 {

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Aaron\Xhprof\Webman;
+namespace Shiroi\Xhprof\Webman;
 
 class Install
 {
