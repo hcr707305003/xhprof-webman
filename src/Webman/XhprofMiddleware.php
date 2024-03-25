@@ -15,7 +15,7 @@ class XhprofMiddleware implements MiddlewareInterface
 {
     public function process(Request $request, callable $next): Response
     {
-        $config=config('plugin.aaron-dev.xhprof.xhprof');
+        $config=config('plugin.shiroi.xhprof.xhprof');
         $xhprof =$config['enable']?:false;
         $extension = extension_loaded('xhprof');
         if(false==$extension) return response()->withBody("请安装xhprof扩展");
