@@ -4,7 +4,7 @@ shiroi/xhprof-webman是一款适配webman的代码性能分析插件。
 开发者可以通过浏览器快速访问性能分析报告，排查代码性能问题。
 
 ## 作者博客 ##
-[艾瑞可erik](https://erik.xyz)
+原作者：[艾瑞可erik](https://erik.xyz)
 
 ## 安装 ##
 
