@@ -1,6 +1,12 @@
 {
     "name": "shiroi/xhprof-webman",
     "description": "适用于webman的xhprof扩展",
+    "keywords": [
+        "shiroi",
+        "erik",
+        "xhprof",
+        "webman"
+    ],
     "type": "library",
     "license": "MIT",
     "require": {
